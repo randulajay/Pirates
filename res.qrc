@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>Audio/bg.mp3</file>
+        <file>Audio/gamebg.mp3</file>
+        <file>Audio/p_shoot.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Images/2.jpg</file>
+        <file>Images/back.png</file>
+        <file>Images/bigenemy.png</file>
+        <file>Images/captain.png</file>
+        <file>Images/enemy.png</file>
+        <file>Images/fire.png</file>
+        <file>Images/life.png</file>
+        <file>Images/Ship.png</file>
+        <file>Images/ti.png</file>
+        <file>Images/wr.png</file>
+        <file>Images/3.png</file>
+        <file>Images/fi.png</file>
+        <file>Images/mic.png</file>
+        <file>Images/p7.png</file>
+        <file>Images/pf3.png</file>
+        <file>Images/ship_sea.png</file>
+    </qresource>
+    <qresource prefix="/Database">
+        <file>Database/SQLITE.db</file>
+        <file>Database/SQLITE.db.sqbpro</file>
+    </qresource>
+</RCC>
